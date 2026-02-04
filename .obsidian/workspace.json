@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plantilla.md",
+                "file": "picoCTF/Plantilla.md",
                 "mode": "source",
                 "source": false
               },
@@ -212,15 +212,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "9fb8d6daaf28ab61",
+  "active": "7e2e4ff235397731",
   "lastOpenFiles": [
+    "picoCTF/1-General Skills",
     "Welcome.md",
     "README.md",
-    "picoCTF/Lets Warm Up.md",
+    "picoCTF/1-General Skills/Lets Warm Up.md",
     "Pasted image 20260204125020.png",
     "Pasted image 20260204125105.png",
     "Pasted image 20260204125052.png",
-    "Plantilla.md",
+    "picoCTF/Plantilla.md",
     "picoCTF"
   ]
 }
