@@ -20,79 +20,8 @@
               "icon": "lucide-file",
               "title": "What Lies Within"
             }
-          },
-          {
-            "id": "e140ef3a97c23de5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glory of the Garden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Glory of the Garden"
-            }
-          },
-          {
-            "id": "9170180ea1f97698",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "extensions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "extensions"
-            }
-          },
-          {
-            "id": "3a45e5c7bd4d456e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Forensic-1/shark on wire 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "shark on wire 2"
-            }
-          },
-          {
-            "id": "a55a4bfc4996fa7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "So Meta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "So Meta"
-            }
-          },
-          {
-            "id": "ae18e62a46877a62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,15 +183,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "3a45e5c7bd4d456e",
+  "active": "7e2e4ff235397731",
   "lastOpenFiles": [
-    "picoCTF/Forensic-1/What Lies Within.md",
-    "picoCTF/Forensic-1/So Meta.md",
-    "picoCTF/Forensic-1/shark on wire 2.md",
-    "picoCTF/Forensic-1/extensions.md",
-    "picoCTF/Forensic-1/Glory of the Garden.md",
+    "picoCTF/Forensic-2/m00nwalk.md",
+    "picoCTF/Forensic-2/like1000.md",
+    "picoCTF/Forensic-2/c0rrupt.md",
+    "picoCTF/Forensic-2/WhitePages.md",
     "picoCTF/Plantilla.md",
+    "picoCTF/Forensic-1/extensions.md",
+    "picoCTF/Forensic-2",
+    "picoCTF/Forensic-1/What Lies Within.md",
     "README.md",
+    "picoCTF/2-General Skills/repetitions.md",
+    "picoCTF/1-General Skills/Warmedup.md",
+    "picoCTF/1-General Skills/Obedient cat.md",
+    "picoCTF/1-General Skills/Nice netcat....md",
+    "picoCTF/1-General Skills/Lets Warm Up.md",
+    "picoCTF/1-General Skills/First Grep.md",
+    "picoCTF/1-General Skills/Bases.md",
+    "picoCTF/Forensic-1/shark on wire 1.md",
+    "picoCTF/Forensic-1/So Meta.md",
+    "picoCTF/Forensic-1/Glory of the Garden.md",
+    "picoCTF/Forensic-2/shark on wire 2.md",
     "picoCTF/Forensic-1",
     "picoCTF/Tarea2-Web/SQLiLite.md",
     "picoCTF/Tarea2-Web/Secrets.md",
@@ -271,18 +213,6 @@
     "picoCTF/Tarea2-Web/WebDecode.md",
     "picoCTF/Tarea2-Web/Unminify.md",
     "picoCTF/Tarea2-Web/Local Authority.md",
-    "picoCTF/Tarea2-Web/IntroToBurp.md",
-    "picoCTF/Tarea2-Web/Inspect HTML.md",
-    "picoCTF/Tarea2-Web/Includes.md",
-    "picoCTF/Web-2/GET aHEAD.md",
-    "picoCTF/Web-1/picobrowser.md",
-    "picoCTF/Web-4/Most Cookies.md",
-    "picoCTF/Web-4/SOAP.md",
-    "picoCTF/Web-3/JaWT Scratchpad.md",
-    "picoCTF/Web-3/More SQLi.md",
-    "picoCTF/Web-3/Irish-Name-Repo 1.md",
-    "picoCTF/Web-2/Scavenger Hunt.md",
-    "picoCTF/Web-2/Cookies.md",
     "picoCTF/Tarea2-Web",
     "picoCTF/Web-4",
     "picoCTF/Web-3",
@@ -291,7 +221,6 @@
     "picoCTF/Tarea1-General Skills",
     "picoCTF/3-General Skills",
     "picoCTF/2-General Skills",
-    "picoCTF/1-General Skills",
     "Pasted image 20260204125020.png",
     "Pasted image 20260204125105.png",
     "Pasted image 20260204125052.png"
