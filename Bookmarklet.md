@@ -1,0 +1,8 @@
+## Descripcion
+Why search for the flag when I can make a bookmarklet to print it for me?Browse [here](http://titan.picoctf.net:61021/), and find the flag!
+## Solucion
+picoCTF{p@g3_turn3r_0c0d211f}
+## Notas
+
+## Referencias
+
