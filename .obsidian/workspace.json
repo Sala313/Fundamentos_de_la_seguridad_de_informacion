@@ -22,399 +22,175 @@
             }
           },
           {
-            "id": "198abab751033c57",
+            "id": "a11ddfaf9f462332",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic-4/Disk, disk, sleuth!.md",
+                "file": "picoCTF/Tarea4-Forensic/CanYouSee.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Disk, disk, sleuth!"
+              "title": "CanYouSee"
             }
           },
           {
-            "id": "306af89a7461ba5f",
+            "id": "d72bd13b78c27ddd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic-4/Milkslap.md",
+                "file": "picoCTF/Tarea4-Forensic/information.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Milkslap"
+              "title": "information"
             }
           },
           {
-            "id": "14212c85ff046e78",
+            "id": "4def78513d81ac11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic-4/Operation Oni.md",
+                "file": "picoCTF/Tarea4-Forensic/Ph4nt0m 1ntrud3r.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operation Oni"
+              "title": "Ph4nt0m 1ntrud3r"
             }
           },
           {
-            "id": "57b32ae9d771a505",
+            "id": "a20740659c6bfc89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic-4/Operation Orchid.md",
+                "file": "picoCTF/Tarea4-Forensic/RED.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operation Orchid"
+              "title": "RED"
             }
           },
           {
-            "id": "08e8afc6084ec32e",
+            "id": "86eefca5f812ea3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic-4/Sleuthkit Apprentice.md",
+                "file": "picoCTF/Tarea4-Forensic/Scan Surprise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sleuthkit Apprentice"
+              "title": "Scan Surprise"
             }
           },
           {
-            "id": "148c8ba1a58fce72",
+            "id": "fc0e7900e31baf38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic-4/Sleuthkit Intro.md",
+                "file": "picoCTF/Tarea4-Forensic/Secret of the Polyglot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sleuthkit Intro"
+              "title": "Secret of the Polyglot"
             }
           },
           {
-            "id": "8fababfa44aae7e6",
+            "id": "1660de893910b1ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/FANTASY CTF.md",
+                "file": "picoCTF/Tarea4-Forensic/hideme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FANTASY CTF"
+              "title": "hideme"
             }
           },
           {
-            "id": "b536c695be08399c",
+            "id": "3862516abe2af58d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/dont-you-love-banners.md",
+                "file": "picoCTF/Tarea4-Forensic/Redaction gone wrong.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dont-you-love-banners"
+              "title": "Redaction gone wrong"
             }
           },
           {
-            "id": "00b2e64fd0adad53",
+            "id": "d273698015bd40cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/dont-you-love-banners.md",
+                "file": "picoCTF/Tarea4-Forensic/CanYouSee.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dont-you-love-banners"
+              "title": "CanYouSee"
             }
           },
           {
-            "id": "200ed35e91c0c5f0",
+            "id": "8a858565f664f75e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/flag_shop.md",
+                "file": "picoCTF/Tarea4-Forensic/Ph4nt0m 1ntrud3r.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "flag_shop"
+              "title": "Ph4nt0m 1ntrud3r"
             }
           },
           {
-            "id": "f909c9b22193488c",
+            "id": "9df0c4086794e77a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bookmarklet.md",
+                "file": "picoCTF/Tarea4-Forensic/Redaction gone wrong.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bookmarklet"
+              "title": "Redaction gone wrong"
             }
           },
           {
-            "id": "9e8abbca29884180",
+            "id": "57ac2d9667ff3d8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cookie Monster Secret Recipe.md",
+                "file": "picoCTF/Tarea4-Forensic/St3g0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cookie Monster Secret Recipe"
-            }
-          },
-          {
-            "id": "4b06feac778a9bd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "head-dump.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "head-dump"
-            }
-          },
-          {
-            "id": "fcafab9aeda6e5ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 3"
-            }
-          },
-          {
-            "id": "da50ca1d375ab61e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 4"
-            }
-          },
-          {
-            "id": "333ff18f58e73b4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 5"
-            }
-          },
-          {
-            "id": "fa21f1bdd58b54f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 3"
-            }
-          },
-          {
-            "id": "ab99ec009f82e7f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 4"
-            }
-          },
-          {
-            "id": "3fbb81ef3aaadb84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 6"
-            }
-          },
-          {
-            "id": "437a7781d2905f8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Examen-1/Web/head-dump.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "head-dump"
-            }
-          },
-          {
-            "id": "4ea0de8b6a0f4b85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Examen-1/General Skills/Python Wrangling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Python Wrangling"
-            }
-          },
-          {
-            "id": "36186d6d26a22597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Examen-1/General Skills/SansAlpha.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SansAlpha"
-            }
-          },
-          {
-            "id": "c0640bc312b382e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Examen-1/General Skills/Specialer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Specialer"
-            }
-          },
-          {
-            "id": "bd3808d09fb6bf07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Examen-1/Web/SSTI1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SSTI1"
-            }
-          },
-          {
-            "id": "0298c698e0ccaa66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Examen-1/Web/findme.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "findme"
-            }
-          },
-          {
-            "id": "f23b7a672fe0db52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Examen-1/Web/Java Code Analysis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Java Code Analysis"
-            }
-          },
-          {
-            "id": "3723056d23defe30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Examen-1/Web/SQL Direct.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SQL Direct"
-            }
-          },
-          {
-            "id": "039350b2a7588d1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Examen-1/Web/SSTI2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SSTI2"
+              "title": "St3g0"
             }
           }
         ],
-        "currentTab": 28
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -578,42 +354,42 @@
   },
   "active": "7e2e4ff235397731",
   "lastOpenFiles": [
-    "picoCTF/Examen-1",
+    "picoCTF/Tarea4-Forensic",
+    "picoCTF/Tarea4-Forensic/Redaction gone wrong.md",
+    "picoCTF/Tarea4-Forensic/hideme.md",
+    "picoCTF/Tarea4-Forensic/Secret of the Polyglot.md",
+    "picoCTF/Tarea4-Forensic/Scan Surprise.md",
+    "picoCTF/Tarea4-Forensic/RED.md",
+    "picoCTF/Tarea4-Forensic/Ph4nt0m 1ntrud3r.md",
+    "picoCTF/Tarea4-Forensic/information.md",
+    "picoCTF/Tarea4-Forensic/CanYouSee.md",
+    "picoCTF/Tarea4-Forensic/St3g0.md",
+    "picoCTF/Plantilla.md",
+    "picoCTF/Forensic-4/Disk, disk, sleuth!.md",
+    "picoCTF/Forensic-4/Milkslap.md",
+    "picoCTF/Forensic-4/Operation Oni.md",
+    "picoCTF/Forensic-4/Operation Orchid.md",
+    "picoCTF/Forensic-4/Sleuthkit Apprentice.md",
+    "picoCTF/Forensic-4/Sleuthkit Intro.md",
+    "picoCTF/Examen-1/Web/head-dump.md",
+    "picoCTF/Examen-1/General Skills/Python Wrangling.md",
+    "picoCTF/Examen-1/General Skills/SansAlpha.md",
+    "picoCTF/Examen-1/General Skills/Specialer.md",
+    "picoCTF/Examen-1/Web/SSTI1.md",
     "picoCTF/Examen-1/Web/SQL Direct.md",
     "picoCTF/Examen-1/Web/Java Code Analysis.md",
     "picoCTF/Examen-1/Web/findme.md",
-    "picoCTF/Examen-1/Web/SSTI1.md",
     "picoCTF/Examen-1/Web/SSTI2.md",
-    "picoCTF/Plantilla.md",
+    "picoCTF/Examen-1",
     "picoCTF/Examen-1/Web",
-    "picoCTF/Examen-1/Web/head-dump.md",
-    "picoCTF/Examen-1/General Skills/Specialer.md",
-    "picoCTF/Examen-1/General Skills/SansAlpha.md",
-    "picoCTF/Examen-1/General Skills/Python Wrangling.md",
-    "picoCTF/Examen-1/General Skills/Rust fixme 3.md",
-    "picoCTF/Examen-1/General Skills/Rust fixme 2.md",
-    "picoCTF/Examen-1/General Skills/Rust fixme 1.md",
-    "picoCTF/Examen-1/General Skills/HashingJobApp.md",
-    "picoCTF/Examen-1/Web/Cookie Monster Secret Recipe.md",
-    "picoCTF/Examen-1/Web/Bookmarklet.md",
-    "picoCTF/Examen-1/General Skills/flag_shop.md",
     "picoCTF/Examen-1/General Skills",
-    "picoCTF/Examen-1/General Skills/dont-you-love-banners.md",
-    "picoCTF/Examen-1/General Skills/FANTASY CTF.md",
-    "picoCTF/Forensic-4/Sleuthkit Intro.md",
     "picoCTF/Forensic-4",
-    "picoCTF/Forensic-4/Sleuthkit Apprentice.md",
-    "picoCTF/Forensic-4/Operation Orchid.md",
-    "picoCTF/Forensic-4/Operation Oni.md",
-    "picoCTF/Forensic-4/Milkslap.md",
-    "picoCTF/Forensic-4/Disk, disk, sleuth!.md",
     "picoCTF/Concurso",
     "picoCTF/Forensic-3",
     "picoCTF/Forensic-2",
     "picoCTF/Forensic-1",
     "picoCTF/Tarea2-Web",
     "picoCTF/Web-4",
-    "picoCTF/Web-3",
     "Pasted image 20260204125020.png",
     "Pasted image 20260204125105.png",
     "Pasted image 20260204125052.png"
