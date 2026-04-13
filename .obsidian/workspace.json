@@ -20,177 +20,8 @@
               "icon": "lucide-file",
               "title": "Plantilla"
             }
-          },
-          {
-            "id": "a11ddfaf9f462332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea4-Forensic/CanYouSee.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CanYouSee"
-            }
-          },
-          {
-            "id": "d72bd13b78c27ddd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea4-Forensic/information.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "information"
-            }
-          },
-          {
-            "id": "4def78513d81ac11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea4-Forensic/Ph4nt0m 1ntrud3r.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ph4nt0m 1ntrud3r"
-            }
-          },
-          {
-            "id": "a20740659c6bfc89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea4-Forensic/RED.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RED"
-            }
-          },
-          {
-            "id": "86eefca5f812ea3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea4-Forensic/Scan Surprise.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scan Surprise"
-            }
-          },
-          {
-            "id": "fc0e7900e31baf38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea4-Forensic/Secret of the Polyglot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Secret of the Polyglot"
-            }
-          },
-          {
-            "id": "1660de893910b1ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea4-Forensic/hideme.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hideme"
-            }
-          },
-          {
-            "id": "3862516abe2af58d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea4-Forensic/Redaction gone wrong.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Redaction gone wrong"
-            }
-          },
-          {
-            "id": "d273698015bd40cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea4-Forensic/CanYouSee.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CanYouSee"
-            }
-          },
-          {
-            "id": "8a858565f664f75e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea4-Forensic/Ph4nt0m 1ntrud3r.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ph4nt0m 1ntrud3r"
-            }
-          },
-          {
-            "id": "9df0c4086794e77a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea4-Forensic/Redaction gone wrong.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Redaction gone wrong"
-            }
-          },
-          {
-            "id": "57ac2d9667ff3d8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea4-Forensic/St3g0.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "St3g0"
-            }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -352,9 +183,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "7e2e4ff235397731",
+  "active": "1347df8d511ec427",
   "lastOpenFiles": [
-    "picoCTF/Tarea4-Forensic",
     "picoCTF/Tarea4-Forensic/Redaction gone wrong.md",
     "picoCTF/Tarea4-Forensic/hideme.md",
     "picoCTF/Tarea4-Forensic/Secret of the Polyglot.md",
@@ -363,8 +193,18 @@
     "picoCTF/Tarea4-Forensic/Ph4nt0m 1ntrud3r.md",
     "picoCTF/Tarea4-Forensic/information.md",
     "picoCTF/Tarea4-Forensic/CanYouSee.md",
-    "picoCTF/Tarea4-Forensic/St3g0.md",
+    "picoCTF/Crypto-1/waves over lambda.md",
+    "picoCTF/Crypto-1/Tapping.md",
+    "picoCTF/Crypto-1/la cifra de.md",
+    "picoCTF/Crypto-1",
+    "picoCTF/Crypto-1/Easy1.md",
+    "picoCTF/Crypto-1/caesar.md",
+    "picoCTF/Crypto-1/The Numbers.md",
+    "picoCTF/Crypto-1/interencdec.md",
+    "picoCTF/Crypto-1/13.md",
     "picoCTF/Plantilla.md",
+    "picoCTF/Tarea4-Forensic/St3g0.md",
+    "picoCTF/Tarea4-Forensic",
     "picoCTF/Forensic-4/Disk, disk, sleuth!.md",
     "picoCTF/Forensic-4/Milkslap.md",
     "picoCTF/Forensic-4/Operation Oni.md",
@@ -372,14 +212,6 @@
     "picoCTF/Forensic-4/Sleuthkit Apprentice.md",
     "picoCTF/Forensic-4/Sleuthkit Intro.md",
     "picoCTF/Examen-1/Web/head-dump.md",
-    "picoCTF/Examen-1/General Skills/Python Wrangling.md",
-    "picoCTF/Examen-1/General Skills/SansAlpha.md",
-    "picoCTF/Examen-1/General Skills/Specialer.md",
-    "picoCTF/Examen-1/Web/SSTI1.md",
-    "picoCTF/Examen-1/Web/SQL Direct.md",
-    "picoCTF/Examen-1/Web/Java Code Analysis.md",
-    "picoCTF/Examen-1/Web/findme.md",
-    "picoCTF/Examen-1/Web/SSTI2.md",
     "picoCTF/Examen-1",
     "picoCTF/Examen-1/Web",
     "picoCTF/Examen-1/General Skills",
@@ -388,8 +220,6 @@
     "picoCTF/Forensic-3",
     "picoCTF/Forensic-2",
     "picoCTF/Forensic-1",
-    "picoCTF/Tarea2-Web",
-    "picoCTF/Web-4",
     "Pasted image 20260204125020.png",
     "Pasted image 20260204125105.png",
     "Pasted image 20260204125052.png"
