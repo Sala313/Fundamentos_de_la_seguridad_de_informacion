@@ -20,8 +20,79 @@
               "icon": "lucide-file",
               "title": "Plantilla"
             }
+          },
+          {
+            "id": "7fecc9c2df5c981c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Reversing-1/vault-door-training.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vault-door-training"
+            }
+          },
+          {
+            "id": "00f11f8fb6085c1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Reversing-1/vault-door-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vault-door-1"
+            }
+          },
+          {
+            "id": "e10fecc0a602ac8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Reversing-1/vault-door-3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vault-door-3"
+            }
+          },
+          {
+            "id": "d5857bd7eb77f8e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Reversing-1/vault-door-4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vault-door-4"
+            }
+          },
+          {
+            "id": "a6cc1b4db9b273a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Reversing-1/vault-door-5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vault-door-5"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -78,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 222.5
   },
   "right": {
     "id": "401fe243a296ac07",
@@ -185,6 +256,13 @@
   },
   "active": "7e2e4ff235397731",
   "lastOpenFiles": [
+    "picoCTF/Reversing-1/vault-door-4.md",
+    "picoCTF/Reversing-1/vault-door-3.md",
+    "picoCTF/Reversing-1/vault-door-1.md",
+    "picoCTF/Reversing-1/vault-door-training.md",
+    "picoCTF/Reversing-1",
+    "picoCTF/Reversing-1/vault-door-5.md",
+    "picoCTF/Plantilla.md",
     "picoCTF/Tarea4-Crypto",
     "picoCTF/Tarea4-Crypto/substitution0.md",
     "picoCTF/Tarea4-Crypto/substitution2.md",
@@ -201,26 +279,18 @@
     "picoCTF/Crypto-4/HideToSee.md",
     "picoCTF/Crypto-4/ReadMyCert.md",
     "README.md",
-    "picoCTF/Plantilla.md",
     "picoCTF/Crypto-4",
     "picoCTF/Crypto-4/Flags.md",
     "picoCTF/Crypto-3/b00tl3gRSA3.md",
     "picoCTF/Crypto-2/rsa-pop-quiz.md",
     "picoCTF/Crypto-3",
     "picoCTF/Crypto-3/b00tl3gRSA2.md",
-    "picoCTF/Crypto-1/interencdec.md",
-    "picoCTF/Crypto-3/Mini RSA.md",
-    "picoCTF/Crypto-3/Mind your Ps and Qs.md",
     "picoCTF/Crypto-2",
-    "picoCTF/Tarea3-Forensic/Redaction gone wrong.md",
-    "picoCTF/Tarea3-Forensic/hideme.md",
     "picoCTF/Crypto-1",
     "picoCTF/Tarea3-Forensic",
     "picoCTF/Examen-1",
     "picoCTF/Examen-1/Web",
     "picoCTF/Examen-1/General Skills",
-    "picoCTF/Forensic-4",
-    "picoCTF/Concurso",
     "Pasted image 20260204125020.png",
     "Pasted image 20260204125105.png",
     "Pasted image 20260204125052.png"
